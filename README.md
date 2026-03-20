@@ -27,4 +27,4 @@ This script uses wowhead data to generate a LUA file that can be imported into G
 
 The output files and HerbalismData.lua are provided as examples and may not reflect the latest wowhead data.
 
-![screenshoot](capture herbalism.png)
+![capture herbalism.png](https://github.com/Phangorn82/wow_herbalism/blob/27a4c255d9bd485f0e5b653990595947da4b2822/capture%20herbalism.png)
