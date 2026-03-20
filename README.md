@@ -26,3 +26,5 @@ This script uses wowhead data to generate a LUA file that can be imported into G
 - Import the data into Gathermate2
 
 The output files and HerbalismData.lua are provided as examples and may not reflect the latest wowhead data.
+
+![screenshoot](capture herbalism.png)
