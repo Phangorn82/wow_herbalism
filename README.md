@@ -1,4 +1,4 @@
-#Wow herbalism node import from wowhead
+# Wow herbalism node import from wowhead
 Ce script utilise les donénes de wowhead pour générer un fichier LUA importable dans Gathermate2_Data
 
 ## comment l'utiliser ?
